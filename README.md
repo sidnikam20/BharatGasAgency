@@ -1,0 +1,1 @@
+The Bharat Gas Agency project is a Java-based application designed to manage gas bookings for customers. It allows users to enter their details, book gas cylinders, and verify their bookings through OTP (One-Time Password) verification. The application also calculates the total amount based on the number of cylinders booked and provides refund options based on delivery dates.
